@@ -7,6 +7,7 @@ const LOCALE_MAP: Record<string, string> = {
     'bg-bg': 'bg',
     'bn': 'bn',
     'ca': 'ca',
+	'ckb': 'ckb-IQ',
     'cs': 'cs',
     'cy': 'cy',
     'da': 'da',
